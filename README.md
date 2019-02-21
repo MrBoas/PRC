@@ -1,3 +1,1 @@
-# PRC
-
-# Repositório para os TPC de PRC
+# Repositório para os TPC's de PRC
