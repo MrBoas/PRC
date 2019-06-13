@@ -1,0 +1,3 @@
+// QUERYS
+module.exports = {
+}
