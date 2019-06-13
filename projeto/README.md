@@ -1,4 +1,4 @@
-#Projeto PRC
+# Projeto PRC
 
 Para correr é necessário importar a ontologia para o GraphDB sendo o nome do repositório 'projetoBeta'
 
